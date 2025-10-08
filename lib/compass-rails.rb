@@ -1,3 +1,4 @@
+require "compass-rails/patches/ruby_compatibility"
 require 'compass'
 require "compass-rails/version"
 require "compass-rails/configuration"
